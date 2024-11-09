@@ -1,6 +1,6 @@
 name: Testes com Jest
 
-on: pull request
+on: pull_request
 
 jobs: 
   teste-com-jest:
